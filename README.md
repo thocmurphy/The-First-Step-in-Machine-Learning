@@ -1,1 +1,1 @@
-# The-First-Step-in-Machine-Learning
+Apply knowledge of Python to create a predictive model of housing prices.
